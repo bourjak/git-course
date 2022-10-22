@@ -1,1 +1,3 @@
 webprog.io
+developer friendly i18n with plurals support and easy syntax.
+
